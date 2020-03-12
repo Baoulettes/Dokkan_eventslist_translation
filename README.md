@@ -3,4 +3,4 @@ Translation for the event list of the game Dokkan battle (Japan version) using h
 
 To compile it require Unidokkan SDK R8.
 Made with with the huge help ThievingSix from Unidokkan's discord !
-Do not forget to say him tanks eheh :)
+Do not forget to say him thanks eheh :)
